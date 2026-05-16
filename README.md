@@ -10,6 +10,9 @@ This project automates the generation of institutional-style healthcare diligenc
 - AI-generated investment analysis
 - automated PDF report generation
 
+## Sample Report Output
+
+![Report Preview](images/report_preview.png)
 ---
 
 # Features

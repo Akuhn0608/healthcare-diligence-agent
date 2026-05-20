@@ -8,3 +8,4 @@ beautifulsoup4
 openai
 reportlab
 python-dotenv
+sec-edgar-downloader

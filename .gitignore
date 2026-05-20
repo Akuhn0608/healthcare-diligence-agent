@@ -1,0 +1,6 @@
+venv/
+.venv/
+outputs/
+sec-edgar-filings/
+__pycache__/
+.DS_Store

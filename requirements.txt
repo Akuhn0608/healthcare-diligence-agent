@@ -8,14 +8,3 @@ beautifulsoup4
 openai
 reportlab
 python-dotenv
-EOFcat > requirements.txt << 'EOF'
-streamlit
-pandas
-numpy
-matplotlib
-yfinance
-requests
-beautifulsoup4
-openai
-reportlab
-python-dotenv
